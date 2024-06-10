@@ -4,7 +4,7 @@
 <img align="right" alt="Matrix" width="400" src="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajabf&label=Profile%20views&color=0e75b6&style=flat" alt="rajabf" /> </p>
 
-- 🔭 I’m currently working on [my_first_tailwind_project](https://github.com/rajabf/rajabf.git)
+- 🔭 I’m currently working on https://xoja-bazar.vercel.app/
 
 - 🌱 I’m currently learning **ReactJs**
 
