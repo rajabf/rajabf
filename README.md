@@ -2,15 +2,6 @@
 <h1 align="center">👋 Hi, I’m Rajab</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <br/>
-<p>
-  <a href="https://git.io/streak-stats" rel="nofollow"
-    ><img
-      src="https://camo.githubusercontent.com/af2fab33aa8f5714832965d8e365cf651eb99019a38a645fa9179e6f7ca2946b/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7368616b68626f7a62656b75736d6f6e6f76"
-      alt="GitHub Streak"
-      data-canonical-src="https://streak-stats.demolab.com?user=rajabf"
-      style="max-width: 100%;"
-  /></a>
-</p>
 <br/>
 <p align="left">
   <img
