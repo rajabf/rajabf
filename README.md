@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">👋 Hi, I’m Rajab</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<p align="right" dir="auto">
+<p align="right">
   <a href="https://git.io/streak-stats" rel="nofollow"
     ><img
       src="https://camo.githubusercontent.com/af2fab33aa8f5714832965d8e365cf651eb99019a38a645fa9179e6f7ca2946b/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7368616b68626f7a62656b75736d6f6e6f76"
