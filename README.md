@@ -5,7 +5,7 @@
   align="right"
   alt="Matrix"
   width="400"
-  src="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA"
+  src="[https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZhODBuczJwbmNkZGcyOGN5d2ptODNmeXE5MWxkaXBxd2x5OWJpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif)"
 />
 <p align="left">
   <img
@@ -14,9 +14,11 @@
   />
 </p>
 
-- 🔭 I’m currently working on https://xoja-bazar.vercel.app/ - 🌱 I’m currently
-learning **React** - 💬 Ask me about **JavaScript/Typescript** - 📫 How to reach
-me **muzaffarovrajab@gmail.com** - ⚡ Fun fact **I listen to rock**
+- 🔭 I’m currently working on https://xoja-bazar.vercel.app/
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **JavaScript/Typescript**
+- 📫 How to reach me **muzaffarovrajab@gmail.com**
+- ⚡ Fun fact **I listen to rock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
