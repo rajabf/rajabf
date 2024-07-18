@@ -104,14 +104,14 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZhODBuczJwbmNkZGcyOGN5d2ptOD
   </a>
 </p>
 
-<p>
+<p align="left">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rajabf&show_icons=true&locale=en&layout=compact"
     alt="rajabf"
   />
 </p>
-<p dir="auto">
+<p align="right" dir="auto">
   <a href="https://git.io/streak-stats" rel="nofollow"
     ><img
       src="https://camo.githubusercontent.com/af2fab33aa8f5714832965d8e365cf651eb99019a38a645fa9179e6f7ca2946b/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7368616b68626f7a62656b75736d6f6e6f76"
