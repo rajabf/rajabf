@@ -1,7 +1,8 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">👋 Hi, I’m Rajab</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<p align="right">
+<br/>
+<p>
   <a href="https://git.io/streak-stats" rel="nofollow"
     ><img
       src="https://camo.githubusercontent.com/af2fab33aa8f5714832965d8e365cf651eb99019a38a645fa9179e6f7ca2946b/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7368616b68626f7a62656b75736d6f6e6f76"
@@ -10,6 +11,7 @@
       style="max-width: 100%;"
   /></a>
 </p>
+<br/>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=rajabf&label=Profile%20views&color=0e75b6&style=flat"
@@ -24,6 +26,7 @@
 - ⚡ Fun fact **I listen to rock**
 
 <h3 align="left">Connect with me:</h3>
+<br/>
 <p align="left">
   <a href="https://instagram.com/rajabfe" target="blank"
     ><img
@@ -34,7 +37,7 @@
       width="40"
   /></a>
 </p>
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
