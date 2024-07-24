@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on https://xoja-bazar.vercel.app/
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **JavaScript/Typescript**
-- 📫 How to reach me **muzaffarovrajab@gmail.com**
+- 📫 How to reach me **muzaffarovrajab25@gmail.com**
 - ⚡ Fun fact **I listen to rock**
 
 <h3 align="left">Connect with me:</h3>
