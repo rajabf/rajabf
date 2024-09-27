@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently working on [https://www.shahexpress.uz/](https://www.shahexpress.uz/)
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nextjs**
 - 💬 Ask me about **JavaScript/Typescript**
 - 📫 How to reach me **muzaffarovrajab25@gmail.com**
 - ⚡ Fun fact **I listen to rock**
